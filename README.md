@@ -1,2 +1,3 @@
 # API Playground
- Different Notebooks with different APIs usage
+Place where I play around with APIs and try to learn new things.
+
